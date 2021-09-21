@@ -1,4 +1,4 @@
-![Visitor Count](https://profile-counter.glitch.me/{sthirumoorthi}/count.svg)
+curl https://profile-counter.glitch.me/{sthirumoorthi}/count.svg
 
 ### Hi there 👋
 
