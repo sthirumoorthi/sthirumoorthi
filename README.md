@@ -4,11 +4,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/thirumoorthi-s-a0771324/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-thirumoorthiksr%40gmail.com-informational?style=flat&logo=gmail&logoColor=red&color=0D76A8)](mailto:thirumoorthiksr@gmail.com)
 
-<p align="center">
-### Hi there 👋 I am Thirumoorthi
-***
-  
-</p>
+<h2 align="center"> Hi there 👋 I am Thirumoorthi  </h2>
 
 <!--
 **sthirumoorthi/sthirumoorthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
